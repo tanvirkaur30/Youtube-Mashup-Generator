@@ -217,6 +217,7 @@ The `pydub` library requires FFmpeg for audio processing. Without FFmpeg, trimmi
 
 ```bash
 ffmpeg -version
+```
 
 After this, audio processing worked successfully.
 
